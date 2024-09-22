@@ -3,8 +3,8 @@ Description: Track daily expenses.
 
 Functionalities:
 
-Add, edit, and delete expense items
-Display total expenses
+Add, edit, and delete expense items<br>
+Display total expenses<br>
 Persistent storage using local storage
 
 
